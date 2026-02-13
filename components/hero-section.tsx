@@ -83,7 +83,7 @@ export function HeroSection() {
 
         {/* Tagline — change this to match your project. */}
         <h2 className="font-[var(--font-bebas)] text-muted-foreground/60 text-[clamp(1rem,3vw,2rem)] mt-4 tracking-wide">
-          BUILD SKILLS. BUILD PROJECTS. BUILD PROOF.
+          hello.
         </h2>
 
         {/* Short description. Replace with your own pitch. */}
